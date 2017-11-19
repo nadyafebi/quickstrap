@@ -1,0 +1,24 @@
+{
+  "name": "quickstrap",
+  "version": "1.0.0",
+  "description": "Rapid website prototyping with Bootstrap.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadyafebi/quickstrap.git"
+  },
+  "author": "Nadya Djojosantoso <hello@nadyafebi.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadyafebi/quickstrap/issues"
+  },
+  "homepage": "https://github.com/nadyafebi/quickstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
