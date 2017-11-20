@@ -1,7 +1,10 @@
 const bootstrap = require('bootstrap/package.json');
 const gulp = require('gulp');
 const panini = require('panini');
+const rimraf = require('rimraf');
 const sass = require('gulp-sass');
+
+gulp.task('clean', gulp.series(clean));
 
 gulp.task('default', gulp.series(gulp.parallel(pages, style), watch));
 
@@ -26,6 +29,12 @@ function style() {
 
 function resetPages(done) {
   panini.refresh();
+  done();
+}
+
+function clean(done) {
+  rimraf('./css', function() {});
+  rimraf('./*.html', function () {});
   done();
 }
 
