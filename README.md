@@ -14,7 +14,7 @@ In need of making a website prototype? Have to quickly develop a website for a h
 
 **Table of Contents**
 
-* [What's Inside](#what-s-inside)
+* [What's Inside](#whats-inside)
 * [Install](#install)
 * [Usage](#usage)
 * [Develop](#develop)
