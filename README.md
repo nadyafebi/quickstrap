@@ -1,5 +1,5 @@
 # quickstrap
-![bootstrap](https://img.shields.io/badge/bootstrap-4.0.0--beta.2-green.svg)
+![bootstrap](https://img.shields.io/badge/bootstrap-4.1.3-green.svg)
 
 In need of making a website prototype? Have to quickly develop a website for a hackathon? Worry not! **quickstrap** is here to save the day!
 
