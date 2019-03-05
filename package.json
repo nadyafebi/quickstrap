@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/nadyafebi/quickstrap#readme",
   "dependencies": {
-    "bootstrap": "^4.1.3",
-    "browser-sync": "^2.24.7",
-    "gulp": "github:gulpjs/gulp#4.0",
-    "gulp-sass": "^4.0.1",
-    "panini": "^1.6.2",
-    "rimraf": "^2.6.2"
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.3",
+    "gulp": "4.0.0",
+    "gulp-sass": "^4.0.2",
+    "panini": "^1.6.3",
+    "rimraf": "^2.6.3"
   }
 }
